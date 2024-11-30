@@ -14,7 +14,7 @@
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-repo/purevoice-ai.git](https://github.com/itz-samad/purevoice-ai.git)
+   https://github.com/itz-samad/purevoice-ai.git
    cd purevoice-ai
 
 pip install -r requirements.txt
