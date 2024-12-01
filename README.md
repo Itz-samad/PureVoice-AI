@@ -29,7 +29,9 @@ run cell record_audio()
 This will save your recording in the recordings/ directory.
 
 ### Text Sample For User Recording
-***Hello! It's great to hear from you. How have you been? I hope everything is going well on your end. I've been quite busy lately, but I'm doing well. The weather here has been quite nice, which is a pleasant change. Have you had a chance to try that new restaurant we talked about? I've heard great things about it. Anyway, I just wanted to catch up and see how you're doing. Let's make sure to stay in touch more often. Take care!***
+***Hello! It's great to hear from you. How have you been? I hope everything is going well on your end. I've been quite busy lately, but I'm doing well. The weather here has been quite nice, 
+which is a pleasant change. Have you had a chance to try that new restaurant we talked about? I've heard great things about it. Anyway, I just wanted to catch up and see how you're doing. 
+Let's make sure to stay in touch more often. Take care!***
 
 3. Train the Neural Network
 Train a custom model for voice recognition and noise suppression:
